@@ -1,0 +1,8 @@
+{
+  "name": "ClipZero — Local Video Clipper & Converter",
+  "description": "Local video clipper and converter running entirely client-side with zero cloud uploads.",
+  "prompt": "ClipZero — Local Video Clipper & Converter",
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
